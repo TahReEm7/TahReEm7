@@ -1,3 +1,9 @@
+# Hi there, I'm Tahreem Hossain 👋  
+
+🎓 **Software Engineering Student** | 💻 **Frontend Web Developer** | 🌍 **Aspiring Remote Engineer**  
+
+---
+
 # 💫 About Me:
 👯 I’m looking to collaborate on any web dev project.<br>🤝 I’m looking for help with improving my web dev skill<br>🌱 I’m currently learning something magical.<br>💬 Ask me about what i like to do in my free time.
 
@@ -13,3 +19,9 @@
 [![](https://visitcount.itsvg.in/api?id=TahReEm7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url) || [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](your-portfolio-url) || [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
+---
+
+⭐ **Feel free to check out my projects and give a star if you like them!**  
