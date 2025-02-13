@@ -20,7 +20,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url) || [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](your-portfolio-url) || [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/tahreem-hossain-93b106326) || [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)]([your-portfolio-url](https://github.com/TahReEm7/TahReEm7)) || [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tahreemhossain0@gmail.com)  
 
 ---
 
