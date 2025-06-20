@@ -2,34 +2,50 @@
 
 🎓 **Software Engineering Student** | 💻 **Frontend Web Developer** | 🌍 **Aspiring Remote Engineer**  
 
----
-- 👨‍💻 All of my projects are available at:  
-  [https://github.com/TahReEm7](https://github.com/TahReEm7)
 
-- 📫 How to reach me:  
-  `tahreemhossain@email.com`  
-  📍 Dhaka, Bangladesh
 
-- ⚡ Fun fact:  
-  I enjoy building tools that solve real-life problems, and I love teaching juniors tech & science!
----
+### 👋 About Me
 
-# 💫 About Me:
-👯 I’m looking to collaborate on any web dev project.<br>🤝 I’m looking for help with improving my web dev skill<br>🌱 I’m currently learning something magical.<br>💬 Ask me about what i like to do in my free time.
+I’m **Tahreem Hossain**, **Junior MERN Stack Developer** and a **Software Engineering student** at Daffodil International University.
+
+🔧 I specialize in building full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**, with added skills in **Firebase**, **React Router**, and **Tailwind CSS** for seamless user experiences.
+
+🌍 I’m actively seeking **remote internships** and **junior developer roles** where I can contribute to meaningful projects, improve my skills, and grow with a collaborative team.
+
+📚 Outside of development, I enjoy mentoring juniors in ICT & Science, exploring open-source code, and finding creative ways to make technology more accessible.
+
+Let’s build something amazing together!
+
 
 
 ### 💻 Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+**🌐 Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 
-**Backend & DB:**  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express.js-black?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+**🧠 Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+**🧰 Tools & Others**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Surge](https://img.shields.io/badge/Surge-CD5C5C?style=flat&logo=surge&logoColor=white)
+
+**📘 Programming Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -37,10 +53,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TahReEm7&icon=0&color=0)](https://visitcount.itsvg.in)
+- 👨‍💻 All of my projects are available at:  
+  [https://github.com/TahReEm7](https://github.com/TahReEm7)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-_💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/tahreemhossain-cr07/)_
+
+### 📫 Reach Me
+- 📧 tahreemhossain0@email.com  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/tahreemhossain-cr07/)  
+- 📍 Uttara, Dhaka, Bangladesh
+
 ---
 
 ⭐ **Feel free to check out my projects and give a star if you like them!**  
