@@ -39,11 +39,11 @@ Let’s build something amazing together!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahReEm7&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahReEm7&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 
