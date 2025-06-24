@@ -36,9 +36,16 @@ Let’s build something amazing together!
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TahReEm7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahReEm7&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="TahReEm7's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahReEm7&theme=radical&hide_border=false" alt="TahReEm7's GitHub streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahReEm7&theme=radical&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
 
 ---
 - 👨‍💻 All of my projects are available at:  
