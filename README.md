@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE0QJEoR1W4qg/profile-displaybackgroundimage-shrink_350_1400/B4DZT1gzvOHIAc-/0/1739285807022?e=1756339200&v=beta&t=AzW4o3KVa7-UTKHTrXh2hKhvojY4xKWkJPjWzdNDNOo" alt="banner" width="100%" />
+</p>
+
 # Hi there, I'm Tahreem Hossain 👋  
 
 🎓 **Software Engineering Student** | 💻 **Frontend Web Developer** | 🌍 **Aspiring Remote Engineer**  
@@ -38,14 +42,17 @@ Let’s build something amazing together!
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TahReEm7&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahReEm7&layout=compact&theme=tokyonight&hide_border=false" width="40%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahReEm7&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahReEm7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="Top Languages" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=TahReEm7&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
-
 
 
 ---
