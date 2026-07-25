@@ -9,7 +9,7 @@
 
 # Hi there, I'm Tahreem Hossain 👋  
 
-🎓 **Software Engineering Student** | 💻 **Frontend Web Developer** | 🌍 **Aspiring Remote Engineer**  
+🎓 **Software Engineering Student** | 💻 **Frontend Web Developer**
 
 
 
